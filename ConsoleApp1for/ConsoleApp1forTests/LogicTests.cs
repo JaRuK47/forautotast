@@ -11,9 +11,17 @@ namespace ConsoleApp1for.Tests
     public class LogicTests
     {
         [TestMethod()]
-        public void ConvertToStringTest()
+        public void FirstNomber()
         {
-            Assert.Fail();
+            string text = Logic.ConvertToString(2);
+            Assert.AreEqual("1 2", text);
+        }
+
+        [TestMethod()]
+        public void FiveNomber()
+        {
+            string text = Logic.ConvertToString(5);
+            Assert.AreEqual("4 5", text);
         }
     }
 }
