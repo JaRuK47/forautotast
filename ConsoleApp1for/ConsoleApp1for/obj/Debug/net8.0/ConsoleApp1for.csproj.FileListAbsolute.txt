@@ -1,0 +1,15 @@
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\bin\Debug\net8.0\ConsoleApp1for.exe
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\bin\Debug\net8.0\ConsoleApp1for.deps.json
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\bin\Debug\net8.0\ConsoleApp1for.runtimeconfig.json
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\bin\Debug\net8.0\ConsoleApp1for.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\bin\Debug\net8.0\ConsoleApp1for.pdb
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.AssemblyInfoInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.AssemblyInfo.cs
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.csproj.CoreCompileInputs.cache
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.sourcelink.json
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\refint\ConsoleApp1for.dll
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.pdb
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ConsoleApp1for.genruntimeconfig.cache
+C:\Users\anuch\OneDrive\Документы\vs\consolefor\ConsoleApp1for\ConsoleApp1for\obj\Debug\net8.0\ref\ConsoleApp1for.dll
