@@ -11,17 +11,24 @@ namespace ConsoleApp1for.Tests
     public class LogicTests
     {
         [TestMethod()]
-        public void FirstNomber()
+        public void NoRepit()
         {
-            string text = Logic.ConvertToString(2);
-            Assert.AreEqual("1 2", text);
+            string text = Logic.Result(2, [1,2]);
+            Assert.AreEqual("0 0", text);
         }
 
         [TestMethod()]
-        public void FiveNomber()
+        public void Repit()
         {
-            string text = Logic.ConvertToString(5);
-            Assert.AreEqual("4 5", text);
+            string text = Logic.Result(3, [1, 2, 2]);
+            Assert.AreEqual("2 3", text);
+        }
+
+        [TestMethod()]
+        public void RepitFirst()
+        {
+            string text = Logic.Result(3, [1, 1, 2]);
+            Assert.AreEqual("1 2", text);
         }
     }
 }
